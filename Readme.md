@@ -2,7 +2,7 @@
 
 ###  108 Java Exercises from Beginner to Advanced
 
-
+![Java](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.jpg)
 ---
 
 ##  About The Project
