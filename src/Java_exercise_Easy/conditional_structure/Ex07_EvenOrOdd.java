@@ -2,7 +2,7 @@ package Java_exercise_Easy.conditional_structure;
 
 import java.util.Scanner;
 
-public class Exo7_EvenOrOdd {
+public class Ex07_EvenOrOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
